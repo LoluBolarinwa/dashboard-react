@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { ColorModeContext, useMode,  } from './theme'
 
 function App() {
   const [count, setCount] = useState(0)
