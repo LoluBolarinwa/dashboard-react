@@ -94,6 +94,8 @@ const Sidebar = () => {
               <Box display="flex" justifyContent="center" alignItems="center">
                 <img
                   alt="profile-user"
+                  width="100px"
+                  height="100px"
                   src={`https://i.postimg.cc/FKv9nnYC/user.png`}
                   style={{ cursor: "pointer", borderRadius: "50%" }}
                 />
