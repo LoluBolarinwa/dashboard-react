@@ -96,7 +96,7 @@ const Sidebar = () => {
                   alt="profile-user"
                   width="100px"
                   height="100px"
-                  src={`https://i.postimg.cc/FKv9nnYC/user.png`}
+                  src={`https://images.immediate.co.uk/production/volatile/sites/30/2020/01/healthy-porridge-bowl-103f858.jpg?resize=768,574`}
                   style={{ cursor: "pointer", borderRadius: "50%" }}
                 />
               </Box>
